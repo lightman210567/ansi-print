@@ -7,3 +7,12 @@ class colours:
     fgPurple = "\033[0;35m"
     fgCyan = "\033[0;36m"
     fgWhite = "\033[0;37m"
+
+    bgBlack = "\033[0;;40m"
+    bgRed = "\033[0;;41m"
+    bgGreen = "\033[0;;42m"
+    bgYellow = "\033[0;;43m"
+    bgBlue = "\033[0;;44m"
+    bgPurple = "\033[0;;45m"
+    bgCyan = "\033[0;;46m"
+    bgWhite = "\033[0;;47m"
