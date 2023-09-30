@@ -16,3 +16,10 @@ class colours:
     bgPurple = "\033[0;;45m"
     bgCyan = "\033[0;;46m"
     bgWhite = "\033[0;;47m"
+
+class styles:
+    normal = "\033[0m"
+    bold = "\033[1m"
+    light = "\033[2m"
+    italic = "\033[3m"
+    underline = "\033[4m"
