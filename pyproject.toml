@@ -9,6 +9,7 @@ authors = [
     {name = "lightman210567", email = "81330314+lightman210567@users.noreply.github.com"}
 ]
 description = "A python class containing ansi codes for colours and styles."
+readme = "README.md"
 requires-python = ">=3.10"
 classifiers = [
     "Intended Audience :: Developers",
