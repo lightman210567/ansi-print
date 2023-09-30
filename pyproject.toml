@@ -1,0 +1,23 @@
+[project]
+name = "ansi-print"
+version = "1.0.0"
+authors = [
+    {name = "lightman210567", email = "81330314+lightman210567@users.noreply.github.com"}
+]
+description = "A python class containing ansi codes for colours and styles."
+requires-python = ">=3.10"
+classifiers = [
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3.10",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/lightman210567/ansi-print"
+"Bug tracker" = "https://github.com/lightman210567/ansi-print/issues"
+
+[tool]
+
+[tool.hatch.build.targets]
+packages = ["src/ansi-print"]
