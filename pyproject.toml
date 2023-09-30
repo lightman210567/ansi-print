@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "ansi-print"
+name = "lightman-ansi-print"
 version = "1.0.0"
 authors = [
     {name = "lightman210567", email = "81330314+lightman210567@users.noreply.github.com"}
